@@ -1,4 +1,4 @@
-Generate Tags form MS-COCO captions de MS-COCO
+Generate Tags form MS-COCO captions
 =======================================
 
 1. Install tools
