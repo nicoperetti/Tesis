@@ -101,3 +101,15 @@ $ tensorboard --logdir ./runs  # runs in the same directory where the logs were 
 ```
 
 open: http://127.0.0.1:6006 in the browser.
+
+Notebooks
+========================
+over notebook directory we have a couple of experiments such as:
+
+- Fasttext for Tag generation: 001_Experiment_Fastext_for_tag_generation.ipynb
+
+- Hyperonym: 002_experiment_merge_noun_hyper_filter.ipynb and Hyperonimos.ipynb
+
+- Autoencoder: Autoencoder.ipynb
+
+- Some ad-hoc models: pytorch.ipynb
